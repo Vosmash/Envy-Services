@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48428c1e.chunk.css",
+    "main.js": "/static/js/main.ea0913a4.chunk.js",
+    "main.js.map": "/static/js/main.ea0913a4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/js/2.ddaf8ef4.chunk.js": "/static/js/2.ddaf8ef4.chunk.js",
+    "static/js/2.ddaf8ef4.chunk.js.map": "/static/js/2.ddaf8ef4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.25083130a40d6e76b471fd4be3c44413.js": "/precache-manifest.25083130a40d6e76b471fd4be3c44413.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.48428c1e.chunk.css.map": "/static/css/main.48428c1e.chunk.css.map",
+    "static/js/2.ddaf8ef4.chunk.js.LICENSE.txt": "/static/js/2.ddaf8ef4.chunk.js.LICENSE.txt",
+    "static/media/food-1.jpg": "/static/media/food-1.1b34283c.jpg",
+    "static/media/food-2.jpg": "/static/media/food-2.0ab3b7f1.jpg",
+    "static/media/food-3.jpg": "/static/media/food-3.3c3b29ff.jpg",
+    "static/media/food-4.jpg": "/static/media/food-4.1b753221.jpg",
+    "static/media/food-5.jpg": "/static/media/food-5.7a4f7707.jpg",
+    "static/media/food-6.jpg": "/static/media/food-6.30444194.jpg",
+    "static/media/image-2.jpg": "/static/media/image-2.f12d2ec1.jpg",
+    "static/media/logo.png": "/static/media/logo.b3293f6a.png",
+    "static/media/App.scss": "/static/media/tool-bg1.9aa4bdc6.png",
+    "static/media/team-1.jpg": "/static/media/team-1.8190c70b.jpg",
+    "static/media/team-2.jpg": "/static/media/team-2.0c8f720c.jpg",
+    "static/media/team-3.jpg": "/static/media/team-3.f05e0ddf.jpg",
+    "static/media/team-4.jpg": "/static/media/team-4.cc1d0b90.jpg",
+    "static/media/team-5.jpg": "/static/media/team-5.00d21609.jpg",
+    "static/media/team-6.jpg": "/static/media/team-6.f5bf1967.jpg",
+    "static/media/team-7.jpg": "/static/media/team-7.4a724d72.jpg",
+    "static/media/team-8.jpg": "/static/media/team-8.75b21550.jpg",
+    "static/media/team-9.jpg": "/static/media/team-9.5c566bd7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/js/2.ddaf8ef4.chunk.js",
+    "static/css/main.48428c1e.chunk.css",
+    "static/js/main.ea0913a4.chunk.js"
+  ]
+}
